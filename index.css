@@ -1,0 +1,10 @@
+html { height: 100%; }
+body {
+    background: rgb(3, 0, 70);
+    background: linear-gradient(0deg, , #000080 100%);
+    text-align: center;
+    color: #A599E9;
+    font-family: "JetBrains", sans-serif;
+  
+}
+pre { font-size: 5rem; margin; 10rem 0;}
